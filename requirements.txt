@@ -1,0 +1,10 @@
+Flask
+cs50
+pandas
+numpy
+scikit-learn
+tensorflow
+matplotlib
+Flask-Session
+Flask-Mail
+requests
