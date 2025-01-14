@@ -1,0 +1,7 @@
+Front-End: 
+
+about.html 
+index.html (view needs to be adjusted)
+chat.html
+
+Back-End work can now begin.
